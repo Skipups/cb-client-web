@@ -1,0 +1,34 @@
+.Title {
+  background: #0E57FF;
+  color: white;
+  text-align: center;
+  max-height: 200px;
+  line-height: 100px;
+  text-transform: uppercase;
+}
+
+.Main{
+  /* width: 80vw; */
+
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.Main li{
+  font-size: 20px;
+
+}
+.Main p{
+  font-size: 15px;
+}
+
+
+.Main button, .Main input{
+  display: block;
+  height: 3em;
+  width: 300px;
+  font-size: 1em;
+  margin: 0 auto;
+  margin-bottom: 1em;
+  padding-left: 1em;
+}
